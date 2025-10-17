@@ -24,7 +24,7 @@ config {
  type: "table",
  schema: "dataform_demo",
  tags: ["reporting"],
- description: "Combine taxi grouped data with payment lookup",
+ description: "Combine taxi grouped data with payment lookup jr",
  columns: {
    ride_id: `A unique identifier for a ride`,
    meter_cost: `Total cost for a specific ride`,
